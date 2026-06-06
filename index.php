@@ -86,7 +86,7 @@
                 echo "
                     <div class='p-3 border shadow rounded bg-dark bg-gradient bg-opacity-75 text-light' style='border-color: rgba(255,255,255,0.2) !important;'>
                         <h2>Welcome to the SCP Foundation Database</h2>
-                        <p>Use the menu above to browse our fleet.</p>
+                        <p>Use the menu above to browse our SCP subjects.</p>
                     </div>
                 ";
             }
